@@ -1,5 +1,7 @@
 # Hackintosh, Huananzhi F8 Gaming, Intel Xeon E5-2699 v4, Radeon RX 570 and 8x32Gb DDR4 [256Gb Total]
 
+![Overview](https://github.com/luchina-gabriel/EFI-HUANANZHI-F8-GAMING-INTEL-XEON-E5-2699-V4-RX-570-8x32Gb-256GB-RAM-PUBLIC/assets/23700365/e1af6435-71c5-42fc-a969-19f0fb46cb4e)
+
 # Basic Information
 
 **Latest working macOS**: macOS Sonoma (14.5)
